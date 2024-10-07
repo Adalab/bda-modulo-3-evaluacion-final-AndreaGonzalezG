@@ -63,6 +63,3 @@ Se buscó determinar si existen diferencias significativas en el número de vuel
 
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
